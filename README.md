@@ -1,2 +1,2 @@
 # To-Do-App
-A simple to-do-app using SQL, HTML, CSS, Flask
+A simple to-do-app using Flask, SQLite, HTML, CSS, and Javascript.
